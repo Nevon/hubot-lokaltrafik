@@ -1,0 +1,24 @@
+{
+  "name": "hubot-lokaltrafik",
+  "description": "Resrobot + Hubot = Sant",
+  "version": "0.0.1",
+  "author": "Tommy Brunn <tommy.brunn@gmail.com>",
+  "license": "BSD",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Nevon/hubot-lokaltrafik.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nevon/hubot-lokaltrafik/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "rsvp": "*",
+    "moment": "*"
+  },
+  "main": "index.coffee"
+}
